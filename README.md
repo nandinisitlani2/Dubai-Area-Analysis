@@ -13,7 +13,7 @@ Using advanced machine learning techniques and geospatial analysis, we developed
 - The Dubai Metro Blue Line demonstrates the highest impact coefficient, followed by road network expansion
 
 ## Dataset
-The analysis uses a dataset of 5,800+ property transactions across 34 Dubai neighborhoods, including:
+The analysis uses a dataset of 300000+ property transactions across 34 Dubai neighborhoods, including:
 - Transaction records (2007-2024)
 - Property attributes (size, rooms, amenities)
 - Geocoded property locations
